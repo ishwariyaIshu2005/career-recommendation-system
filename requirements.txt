@@ -1,0 +1,8 @@
+*Note: Even though you import it as `sklearn` in your code, the package name for the installer is `scikit-learn`.*
+
+3. **Save the file** (`Ctrl + S`).
+4. **Push the change to GitHub** using your terminal:
+   ```bash
+   git add requirements.txt
+   git commit -m "fix: add scikit-learn to requirements.txt"
+   git push origin main
