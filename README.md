@@ -3,7 +3,7 @@
 An intelligent, machine learning-driven web application developed using Python and **scikit-learn**.
 
 ## 🚀 Features
-assets/dashboard.png
+!assets/dashboard.png
 - **Personalized Recommendations:** Predicts ideal career tracks based on user skills, interests, and personality.
 - **NLP Engine:** Uses TF-IDF Vectorizer and Cosine Similarity to calculate high-accuracy matches.
 - **Data-Driven:** Trained with classification algorithms to map candidate profiles to industry-standard tech stacks.
